@@ -1,0 +1,6 @@
+interface:
+  display_name: "System Explanation"
+  short_description: "Opt-in, source-grounded architecture coaching"
+  default_prompt: "Use $system-explanation to turn on system explanation coaching for this conversation."
+policy:
+  allow_implicit_invocation: false
